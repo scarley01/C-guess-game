@@ -26,7 +26,7 @@ int main(){
         }
         else if (guess > answer)
         {
-            printf("TOO HIGH\n");
+            printf("TOO HIGH!\n");
         }
         else{
             printf("Correct!\n");
